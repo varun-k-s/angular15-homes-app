@@ -1,4 +1,4 @@
-# Housing Listings — Angular 15 Learning Project
+# Homes App — Angular 15 Learning Project
 
 This is a learning project built using Angular 15, demonstrating a simple real-estate listings application with routing, components, interfaces, services, data fetching, and filtering functionality. The goal was to practice core Angular concepts in a structured, real example.
 
@@ -13,13 +13,13 @@ https://www.youtube.com/playlist?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF
 
 # Features
 
-✔ Home view showing all housing listings  
-✔ Child component for individual listing cards  
-✔ Details page for a specific listing using dynamic route parameters  
-✔ Search filtering functionality  
-✔ Angular service to fetch remote data (hosted using JSON-server here) 
-✔ Works with a separate JSON server as mock backend API  
-✔ Client-side rendering with data binding and directives  
+- Home view showing all housing listings  
+- Child component for individual listing cards  
+- Details page for a specific listing using dynamic route parameters  
+- Search filtering functionality  
+- Angular service to fetch remote data (hosted using JSON-server here) 
+- Works with a separate JSON server as mock backend API  
+- Client-side rendering with data binding and directives  
 
 ---
 
@@ -133,8 +133,8 @@ This runs by default at:
 
 # Some of the concepts in Angular being used in this project are:
 
-Understanding Angular component structure
-Using services & dependency injection  
-Understanding Angular routing & route parameters  
+- Understanding Angular component structure
+- Using services & dependency injection  
+- Understanding Angular routing & route parameters  
 
 ---
